@@ -1,17 +1,17 @@
 {
-  "name": "ethio",
+  "name": "eefio",
   "version": "0.0.1",
-  "description": "Client library for the Ethio API",
+  "description": "Client library for the Eefio API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethiodotapp/ethio-client-js.git"
+    "url": "https://github.com/eefio/eefio-client-js.git"
   },
   "keywords": [
-    "ethio",
+    "eefio",
     "api",
     "rest",
     "blockchain",
@@ -20,7 +20,7 @@
   "author": "Shane Becker",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/ethiodotapp/ethio-client-js/issues"
+    "url": "https://github.com/eefio/eefio-client-js/issues"
   },
-  "homepage": "https://github.com/ethiodotapp/ethio-client-js#readme"
+  "homepage": "https://github.com/eefio/eefio-client-js#readme"
 }

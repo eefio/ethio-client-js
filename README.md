@@ -1,6 +1,6 @@
-# Ethio JS
+# Eefio JS
 
-Client library for Ethio API
+Client library for Eefio API
 
 # TODO
 
